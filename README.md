@@ -24,7 +24,6 @@ This repository presents the **design and characterization of a novel Substrate 
 3. **Characterization:**  
    - Simulations and measurements were carried out using:  
      - CST Microwave Studio  
-     - HFSS  
      - Vector Network Analyzer (VNA)  
 
 ---
@@ -39,7 +38,7 @@ This repository presents the **design and characterization of a novel Substrate 
 
 ## 🛠 Tools & Technologies Used
 
-- **CST Microwave Studio**, **HFSS** (Antenna Design & Simulation)  
+- **CST Microwave Studio**(Antenna Design & Simulation)  
 - **Vector Network Analyzer (VNA)** for measurements  
 - **OriginLab** for data processing and graph generation  
 - **Python** & **MATLAB** for numerical analysis  
